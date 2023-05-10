@@ -1,0 +1,16 @@
+c:\users\temuco_lab2\documents\visual studio 2010\Projects\EjerMetodo\EjerMetodo\bin\Debug\EjerMetodo.exe
+c:\users\temuco_lab2\documents\visual studio 2010\Projects\EjerMetodo\EjerMetodo\bin\Debug\EjerMetodo.pdb
+c:\users\temuco_lab2\documents\visual studio 2010\Projects\EjerMetodo\EjerMetodo\obj\x86\Debug\EjerMetodo.Form1.resources
+c:\users\temuco_lab2\documents\visual studio 2010\Projects\EjerMetodo\EjerMetodo\obj\x86\Debug\EjerMetodo.Properties.Resources.resources
+c:\users\temuco_lab2\documents\visual studio 2010\Projects\EjerMetodo\EjerMetodo\obj\x86\Debug\EjerMetodo.csproj.GenerateResource.Cache
+c:\users\temuco_lab2\documents\visual studio 2010\Projects\EjerMetodo\EjerMetodo\obj\x86\Debug\EjerMetodo.exe
+c:\users\temuco_lab2\documents\visual studio 2010\Projects\EjerMetodo\EjerMetodo\obj\x86\Debug\EjerMetodo.pdb
+C:\Users\abanyi\Downloads\EjerMetodo\EjerMetodo\bin\Debug\EjerMetodo.exe
+C:\Users\abanyi\Downloads\EjerMetodo\EjerMetodo\bin\Debug\EjerMetodo.pdb
+C:\Users\abanyi\Downloads\EjerMetodo\EjerMetodo\obj\x86\Debug\EjerMetodo.csproj.AssemblyReference.cache
+C:\Users\abanyi\Downloads\EjerMetodo\EjerMetodo\obj\x86\Debug\EjerMetodo.Form1.resources
+C:\Users\abanyi\Downloads\EjerMetodo\EjerMetodo\obj\x86\Debug\EjerMetodo.Properties.Resources.resources
+C:\Users\abanyi\Downloads\EjerMetodo\EjerMetodo\obj\x86\Debug\EjerMetodo.csproj.GenerateResource.cache
+C:\Users\abanyi\Downloads\EjerMetodo\EjerMetodo\obj\x86\Debug\EjerMetodo.csproj.CoreCompileInputs.cache
+C:\Users\abanyi\Downloads\EjerMetodo\EjerMetodo\obj\x86\Debug\EjerMetodo.exe
+C:\Users\abanyi\Downloads\EjerMetodo\EjerMetodo\obj\x86\Debug\EjerMetodo.pdb
